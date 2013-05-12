@@ -1,7 +1,7 @@
 ### Google Classic Navbar
 
 
-Extensão para o Google Chrome versão 27 ou superior, que ativa a barra de navegação clássica do topo (barra preta) nas página de resultados do google.com.
+Extensão para o Google Chrome versão 27 ou superior, que ativa a barra de navegação clássica do topo (barra preta) nas página de resultados do Google.
 ***
 
 
@@ -20,4 +20,4 @@ Extensão para o Google Chrome versão 27 ou superior, que ativa a barra de nave
 
 
 
-<strong> Voilà! Extensão adicionada </strong>;) Não é preciso confirgurar a extensão, apenas navegar normalmente.
+<strong> Voilà! Extensão instalada. </strong>;) Não é preciso confirgurar a extensão, apenas navegar normalmente.
