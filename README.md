@@ -11,4 +11,4 @@ Instalação
 * 3 - Arraste o arquivo GoogleClassicNavbar.crx para dentro da página de extensões e solte-o.
 * 4 - Confirme a instalação na janela que aparecer clicando em 'Adicionar'.
 
-*Voilà! Extensão adicionada ;)
+## Voilà! Extensão adicionada ;)
